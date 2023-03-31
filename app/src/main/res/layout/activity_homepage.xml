@@ -75,4 +75,12 @@
         tools:layout_editor_absoluteX="80dp"
         tools:layout_editor_absoluteY="464dp" />
 
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="mkc"
+        tools:layout_editor_absoluteX="189dp"
+        tools:layout_editor_absoluteY="296dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
